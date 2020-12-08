@@ -5,3 +5,4 @@ test/
 #忽略index.css
 index.css
 a.js
+.DS_Store
